@@ -1,0 +1,3 @@
+C:\Xamarin\Xamarin-Developer-Roadmap\common\obj\Debug\common.csprojAssemblyReference.cache
+C:\Xamarin\Xamarin-Developer-Roadmap\common\obj\Debug\Common.exe.config
+C:\Xamarin\Xamarin-Developer-Roadmap\common\obj\Debug\common.csproj.CoreCompileInputs.cache
