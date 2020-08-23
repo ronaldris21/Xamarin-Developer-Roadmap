@@ -1,10 +1,11 @@
 # Xamarin-Developer-Roadmap
 
-Start Date: 23-August-2020
-[My progress] (log_XAMARIN_Roadmap.md)
+Start Date: 23-August-2020    
+
+[My progress](log_XAMARIN_Roadmap.md)
 
 ##  Note
-- When use, remember the main Namespace is **Ris**
+- When use, remember the main Namespace is **Common**
 
 
 
